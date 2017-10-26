@@ -1,0 +1,76 @@
+2017-10-12 09:46:01,821 INFO (StartupInfoLogger.java:48)- Starting SampleController on DESKTOP-RHAFA3J with PID 17068 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 09:46:01,827 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 09:46:01,827 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 09:46:07,020 INFO (StartupInfoLogger.java:57)- Started SampleController in 5.494 seconds (JVM running for 6.123)
+2017-10-12 10:04:01,744 INFO (StartupInfoLogger.java:48)- Starting SampleController on DESKTOP-RHAFA3J with PID 12940 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 10:04:01,748 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 10:04:01,748 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 10:04:05,835 INFO (StartupInfoLogger.java:57)- Started SampleController in 4.413 seconds (JVM running for 4.931)
+2017-10-12 10:07:21,499 INFO (StartupInfoLogger.java:48)- Starting SampleController on DESKTOP-RHAFA3J with PID 13032 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 10:07:21,501 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 10:07:21,502 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 10:07:25,682 INFO (StartupInfoLogger.java:57)- Started SampleController in 4.453 seconds (JVM running for 5.02)
+2017-10-12 10:09:43,735 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 12944 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 10:09:43,738 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 10:09:43,738 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 10:10:05,182 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 11096 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 10:10:05,184 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 10:10:05,185 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 10:10:09,139 INFO (StartupInfoLogger.java:57)- Started App in 4.246 seconds (JVM running for 4.742)
+2017-10-12 10:32:29,722 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 13844 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 10:32:29,724 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 10:32:29,724 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 10:32:33,807 INFO (StartupInfoLogger.java:57)- Started App in 4.369 seconds (JVM running for 4.928)
+2017-10-12 14:27:22,209 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 2080 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 14:27:22,212 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 14:27:22,212 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 14:27:26,379 INFO (StartupInfoLogger.java:57)- Started App in 4.448 seconds (JVM running for 5.063)
+2017-10-12 14:28:04,679 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 5872 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 14:28:04,682 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 14:28:04,682 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 14:28:34,523 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 14560 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 14:28:34,525 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 14:28:34,525 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 14:28:38,528 INFO (StartupInfoLogger.java:57)- Started App in 4.252 seconds (JVM running for 4.793)
+2017-10-12 14:28:48,721 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:28:48,746 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:28:48,762 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:29:52,307 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 11016 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 14:29:52,310 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 14:29:52,310 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 14:29:56,317 INFO (StartupInfoLogger.java:57)- Started App in 4.307 seconds (JVM running for 4.798)
+2017-10-12 14:30:01,333 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:30:01,356 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:30:01,368 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:30:33,357 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 17320 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 14:30:33,359 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 14:30:33,360 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 14:30:37,455 INFO (StartupInfoLogger.java:57)- Started App in 4.357 seconds (JVM running for 4.829)
+2017-10-12 14:30:40,629 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:30:40,655 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:30:40,669 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:36:05,116 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:36:05,117 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:36:05,118 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:36:06,916 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:36:06,918 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:36:06,920 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:36:07,572 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:36:07,573 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:36:07,575 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:36:07,763 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:36:07,764 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:36:07,766 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:36:07,933 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:36:07,934 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:36:07,936 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 14:36:15,642 INFO (StartupInfoLogger.java:48)- Starting App on DESKTOP-RHAFA3J with PID 16076 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
+2017-10-12 14:36:15,645 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-10-12 14:36:15,645 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-12 14:36:20,309 INFO (StartupInfoLogger.java:57)- Started App in 4.954 seconds (JVM running for 5.634)
+2017-10-12 14:36:22,897 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 14:36:22,928 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 14:36:22,966 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
+2017-10-12 15:12:12,750 DEBUG (BaseJdbcLogger.java:142)- ==>  Preparing: select * from users 
+2017-10-12 15:12:12,758 DEBUG (BaseJdbcLogger.java:142)- ==> Parameters: 
+2017-10-12 15:12:12,764 DEBUG (BaseJdbcLogger.java:142)- <==      Total: 1
