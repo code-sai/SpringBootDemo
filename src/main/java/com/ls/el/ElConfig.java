@@ -37,7 +37,7 @@ public class ElConfig {
 	private Resource testFile;
 	
 	// 注入网址资源
-	@Value("http://www.baidu.com")
+	@Value("http://www.panku.com/")
 	private Resource testUrl;
 	
 	// 注入配置文件
