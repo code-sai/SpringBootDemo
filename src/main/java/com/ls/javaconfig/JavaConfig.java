@@ -28,10 +28,10 @@ public class JavaConfig {
 	 * 这也是Spring容器提供极好的功能。
 	 * 在Spring容器中，只要容器中存在某个Bean，就可以在另外一个Bean的声明方法的参数中写入。
 	 */
-/*	@Bean
-	public UseFunctionService useFunctionService(FunctionService functionService) {
-		UseFunctionService useFunctionService = new UseFunctionService();
-		useFunctionService.setFunctionService(functionService);
-		return useFunctionService;
-	}*/
+//	@Bean
+//	public UseFunctionService useFunctionService(FunctionService functionService) {
+//		UseFunctionService useFunctionService = new UseFunctionService();
+//		useFunctionService.setFunctionService(functionService);
+//		return useFunctionService;
+//	}
 }
