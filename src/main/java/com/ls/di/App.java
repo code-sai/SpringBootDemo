@@ -7,6 +7,7 @@ public class App {
 	public static void main(String[] args) {
 		/*
 		 * 使用 AnnotationConfigApplicationContext 作为 Spring 容器，接受一个配置类作为参数
+		 * AnnotationConfig 注解配置
 		 */
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(DiConfig.class);
 		UseFunctionService useFunctionService = context.getBean(UseFunctionService.class);
