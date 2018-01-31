@@ -76,7 +76,7 @@
     <dependency>
       <groupId>org.aspectj</groupId>
       <artifactId>aspectjrt</artifactId>
-      </dependency>
+    </dependency>
     
     <dependency>
       <groupId>org.aspectj</groupId>
