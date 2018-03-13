@@ -1,8 +1,1 @@
-2017-10-19 10:49:12,853 INFO (StartupInfoLogger.java:48)- Starting SampleController on DESKTOP-RHAFA3J with PID 3548 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
-2017-10-19 10:49:12,872 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
-2017-10-19 10:49:12,872 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
-2017-10-19 10:50:43,437 INFO (StartupInfoLogger.java:48)- Starting SampleController on DESKTOP-RHAFA3J with PID 6544 (E:\neonWork\mavenSpringBootDemo\target\classes started by pkls in E:\neonWork\mavenSpringBootDemo)
-2017-10-19 10:50:43,439 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
-2017-10-19 10:50:43,440 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
-2017-10-19 10:50:48,754 INFO (StartupInfoLogger.java:57)- Started SampleController in 5.6 seconds (JVM running for 6.152)
-2017-10-19 10:51:15,409 INFO (SampleController.java:51)- Hello
+2018-03-13 11:43:10,645 INFO (LogApp.java:10)- Info
