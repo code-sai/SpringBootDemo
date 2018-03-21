@@ -27,7 +27,6 @@ public class TaskExecutorConfig implements AsyncConfigurer{
 
 	@Override
 	public AsyncUncaughtExceptionHandler getAsyncUncaughtExceptionHandler() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
